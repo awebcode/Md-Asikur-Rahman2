@@ -1,4 +1,4 @@
-👋 Hey there! I'm Md Asikur Rahman, a passionate Full Stack MERN/Next.js Developer 🚀 with a love for creating remarkable web experiences. 💻 My code flows like a melody, bringing life to ideas and turning them into reality.
+👋 Hey there! I'm  Asikur Rahman, a passionate Full Stack MERN/Next.js and Real time application Developer 🚀 with a love for creating remarkable web experiences. 💻 My code flows like a melody, bringing life to ideas and turning them into reality.
 
 🎯 Always on the hunt for new challenges, I thrive on pushing the boundaries of what's possible in the digital world. From front-end magic ✨ to back-end wizardry 🔮, I craft clean, efficient, and scalable solutions that make users go "Wow!" 🌟
 
